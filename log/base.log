@@ -1,0 +1,15 @@
+2017-02-20 13:40:33,486 INFO (StartupInfoLogger.java:48)- Starting HelloWorld on WIN-5AGC03U1Q3C with PID 8464 (D:\workspaceForJava\explore\target\classes started by Administrator in D:\workspaceForJava\explore)
+2017-02-20 13:40:33,489 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.1.RELEASE, Spring v4.3.6.RELEASE
+2017-02-20 13:40:33,491 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-02-20 13:40:35,700 INFO (StartupInfoLogger.java:57)- Started HelloWorld in 2.463 seconds (JVM running for 3.157)
+2017-02-20 13:40:41,026 DEBUG (HelloWorld.java:18)- 访问hello
+2017-02-20 13:42:02,263 INFO (StartupInfoLogger.java:48)- Starting HelloWorld on WIN-5AGC03U1Q3C with PID 7552 (D:\workspaceForJava\explore\target\classes started by Administrator in D:\workspaceForJava\explore)
+2017-02-20 13:42:02,265 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.1.RELEASE, Spring v4.3.6.RELEASE
+2017-02-20 13:42:02,266 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-02-20 13:42:04,852 INFO (StartupInfoLogger.java:57)- Started HelloWorld in 2.864 seconds (JVM running for 3.308)
+2017-02-20 13:42:09,290 DEBUG (HelloWorld.java:18)- 访问hello
+2017-02-20 13:42:50,010 INFO (StartupInfoLogger.java:48)- Starting HelloWorld on WIN-5AGC03U1Q3C with PID 9528 (D:\workspaceForJava\explore\target\classes started by Administrator in D:\workspaceForJava\explore)
+2017-02-20 13:42:50,012 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.1.RELEASE, Spring v4.3.6.RELEASE
+2017-02-20 13:42:50,013 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-02-20 13:42:52,384 INFO (StartupInfoLogger.java:57)- Started HelloWorld in 2.646 seconds (JVM running for 3.346)
+2017-02-20 13:43:07,832 DEBUG (HelloWorld.java:18)- 访问hello
